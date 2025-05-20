@@ -14,7 +14,7 @@ export default defineConfig({
   title: 'Toquea QR API',
   description: 'La API de QR Payments está diseñada para simplificar la gestión de cobros mediante códigos QR.',
 
-  head: [['link', { rel: 'icon', href: '/public/favicon.svg' }]],
+  head: [['link', { rel: 'icon', href: '/doc-dev-toquea-qr/public/favicon.svg' }]],
 
   themeConfig: {
     nav: [{ text: 'API Reference', link: '/introduction' }],
